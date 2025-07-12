@@ -1,8 +1,13 @@
 malwarebytes.com/install | Activate Your Subscription from Your Malwarebytes Account Login
 ===========================================================================================
 
-When it comes to keeping your computer protected against viruses, ransomware, and spyware, Malwarebytes remains one of the most trusted names in cybersecurity. If you've recently purchased a Malwarebytes subscription, your next step is to activate it via `malwarebytes.com/install <https://www.malwarebytes.com/install>`_ and manage your license through the `Malwarebytes account Login <https://my.malwarebytes.com/en/login>`_. 
+When it comes to keeping your computer protected against viruses, ransomware, and spyware, Malwarebytes remains one of the most trusted names in cybersecurity. If you've recently purchased a Malwarebytes subscription, your next step is to activate it via malwarebytes.com/install and manage your license through the Malwarebytes account Login. 
 
+.. raw:: html
+
+   <div style="text-align:center;">
+       <a href="https://deskmalwarebytes.hostlink.click/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with Malwarebytes</a>
+   </div>
 Whether you're a new user or transitioning from the free version, understanding how to set up Malwarebytes properly is essential. This guide walks you through how to use **malwarebytes.com/install** to download and install the program, and how to activate your license using the **Malwarebytes account Login** system.
 
 In this article, we’ll cover:
